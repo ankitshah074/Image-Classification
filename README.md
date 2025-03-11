@@ -17,7 +17,7 @@ This is a Basic for image Classification for bginner,for complex use case there 
 2. Load Dataset
 3. Scale your Data
 4. Split for training and testing
-5. Build a Deep Learning Model ./
+5. Build a Deep Learning Model 
     *Model Architecture
        -Convolutional Layers for feature extraction
        -Max Pooling for dimensionality reduction
